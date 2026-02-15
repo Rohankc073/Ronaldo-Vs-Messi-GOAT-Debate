@@ -90,6 +90,3 @@ streamlit run app.py
 
 ---
 
-If you want, I can also **add an attractive banner** at the top with "Messi vs Ronaldo Dashboard" and a **preview GIF** of your app running so your GitHub page looks more professional.
-
-Do you want me to make that banner + GIF version for you? That will make your README stand out a lot.
